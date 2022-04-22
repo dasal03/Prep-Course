@@ -1,0 +1,7 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+ * Variables: Una variable es un espacio de memoria reservado para almacenar cierto dato.
+ * Strings: Un String o cadena es un tipo de dato que como su nombre lo dice, es una cadena ordenada de datos.
+ * Funciones (argumentos, `return`): Una función es un bloque de codigo que realiza cierta operación.
+ * Declaraciones `if`: Son condiciones que se establecen para que al evaluarlas se realice cierta acción.
+ * Valores booleanos (`true`, `false`): Son un tipo de datos que se usan para evaluar si una condición es cierta o no.

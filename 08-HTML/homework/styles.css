@@ -1,0 +1,35 @@
+* {
+  background-color: #f6f7f18f;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+.div {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+h1 {
+  color: red;
+}
+
+img {
+  width: 400px;
+}
+
+.thirdDiv {
+  height: 600px;
+  width: 500px;
+  background-color: #f5643f;
+  padding: 50px;
+  border: 1px solid black;
+}
+
+.spanId {
+  font-size: 18px;
+  margin: 50px;
+}

@@ -1,0 +1,8 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Objetos: Un objeto es una entidad, que contiene propiedades y tipos.
+	* Propiedades: Son las caracteristicas del objeto.
+	* Métodos: Son las acciones que puede realizar el objeto.
+	* Bucle `for…in`: La instrucción for-in itera sobre todas las propiedades enumerables de un objeto que está codificado por cadenas.
+	* Notación de puntos vs notación de corchetes: notación de puntos: debe ser un identificador válido de JavaScript, esto es, una secuencia alfanumérica de caracteres, incluyendo también el guión bajo ("_") y el signo dolar ("$"), que no puede comenzar por un número.
+  notación de corchetes:  es una cadena. La cadena no tiene que ser un identificador válido; puede tener cualquier valor.

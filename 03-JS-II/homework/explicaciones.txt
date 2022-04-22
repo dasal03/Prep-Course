@@ -1,0 +1,9 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* `for`: Es un bucle, que se usa para repetir una o más instrucciones un determinado numero de veces.
+
+* `&&`, `||`, `!`: && es el operador logico AND,que devuelve true si ambos operandos son true, y false de lo contrario.
+
+|| es el operador logico OR, el cual compara dos expresiones, si la primera expresion es falsa, devolverá la segunda, y si la primera es verdadera se devuelve la primera expresion.
+
+! es el operador NOT, y se usa para llevar la verdad a la falsedad, y viceversa, además se usa más que todo con booleanos.
