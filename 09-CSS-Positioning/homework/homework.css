@@ -52,19 +52,18 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
 
 /* Acá va tu código */
 #ejercicioCinco {
+  position: relative;
   display: flex;
   flex-direction: row;
-  justify-content: center;
+  justify-content: space-around;
   align-items: center;
 }
 
 /* Ejercicio 6: */
 
 /* Acá va tu código */
-#ejercicioSeis {
-  display: flex;
+#ejercicioCinco {
   flex-direction: row-reverse;
-  flex-wrap: wrap-reverse;
 }
 
 /* Ejercicio 7: */
